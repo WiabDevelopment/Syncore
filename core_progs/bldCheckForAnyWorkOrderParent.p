@@ -2,7 +2,7 @@
 Program : bldCheckForAnyWorkOrderParent.p 
 Purpose : Checks whether StockPackage is from Kitting
 
-Author  : BR
+Author  : BRajan
 Date    : 8th July 2015
 --------------------------------------------------------------------------------------------------------------------------------------------
 Changes :
