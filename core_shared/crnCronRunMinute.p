@@ -11,7 +11,7 @@ Purpose : This file is called by the cron_scheduler with a timestamp input param
          
           Cloned from crnCronRun.p
          
-Author  : Christopher Shelley
+Author  : Christopher Shelley ss
 Date    : 20/11/2013
 --------------------------------------------------------------------------------------------------------------------------------------------
 Changes :
