@@ -13,7 +13,7 @@ Purpose : This file is called by the actual cron every minute. It reads CronConf
          
           Cloned from crnCronScheduler.p
 
-Author  : BG
+Author  : BGdd
 Date    : 13/10/2011
 --------------------------------------------------------------------------------------------------------------------------------------------
 Changes :
